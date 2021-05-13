@@ -2,11 +2,11 @@ plugins {
     id 'java'
 }
 
-group 'com.krista.extensions'
+group 'com.extensions'
 version '1.0-SNAPSHOT'
 
-archivesBaseName = "grand_uno_d1"
-description = 'krista-extension-template project, More details in readme'
+archivesBaseName = "hubspot"
+description = '-extension-template project, More details in readme'
 sourceCompatibility = '11'
 targetCompatibility = '11'
 

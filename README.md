@@ -5,6 +5,7 @@ This repo includes varieties of major companies api products integration example
 -----
 * Salesforce
 * SugarCRM
+* Hubspot
 ------
 * Bitbucket
 * GitLab
