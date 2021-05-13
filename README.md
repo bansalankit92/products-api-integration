@@ -6,15 +6,13 @@ This repo includes varieties of major companies api products integration example
 * Salesforce
 * Hubspot
 * SugarCRM
-  
-  
+--------
 * Bitbucket
 * GitLab
 * Github
-    
-    
+---------
 * Jira  
-
+---------
 * EC2
 * ECR
 * S3
@@ -23,19 +21,15 @@ This repo includes varieties of major companies api products integration example
 * Jenkins
 * Rancher
 * Teamcity
-    
-  
+---------
 * Service Now
-   
-
+---------
 * Gmail
 * Google Calendar
 * Gsheets
 * OneDrive
-   
-   
+---------
 * Twilio
-
- 
+---------
 * Twitter
 * FaceBook 
