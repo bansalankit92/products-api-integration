@@ -4,7 +4,6 @@ Different Product Integration via API's in Java.
 This repo includes varieties of major companies api products integration examples in java with OAuth2.
 
 * Salesforce
-* Hubspot
 * SugarCRM
 --------
 * Bitbucket
