@@ -1,17 +1,17 @@
 # Integrating Products via API in Java
 Different Product Integration via API's in Java.  
 
-This repo includes varieties of major companies api products integration examples in java with OAuth2.
-
+This repo includes varieties of major companies api products integration examples in java with OAuth2.  
+-----
 * Salesforce
 * SugarCRM
---------
+------
 * Bitbucket
 * GitLab
 * Github
----------
+-------
 * Jira  
----------
+-------
 * EC2
 * ECR
 * S3
@@ -20,6 +20,8 @@ This repo includes varieties of major companies api products integration example
 * Jenkins
 * Rancher
 * Teamcity
+* Sumologic
+* Sonarqube
 ---------
 * Service Now
 ---------
@@ -32,3 +34,7 @@ This repo includes varieties of major companies api products integration example
 ---------
 * Twitter
 * FaceBook 
+-------
+* Grey matter 
+* Covid Hub api
+------

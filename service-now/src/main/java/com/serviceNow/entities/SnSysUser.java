@@ -1,0 +1,65 @@
+package com.serviceNow.entities;
+
+import com.serviceNow.drivers.SnEntity;
+
+public class SnSysUser extends SnEntity
+{
+  public String active;
+  public String avatar;
+  public String building;
+  public String calendar_integration;
+  public String city;
+  //public SnLinkValue company;
+  //public SnLinkValue cost_center;
+  public String country;
+  public String date_format;
+  //public SnLinkValue default_perspective;
+  //public SnLinkValue department;
+  public String email;
+  public String employee_number;
+  public String enable_multifactor_authn;
+  public String failed_attempts;
+  public String first_name;
+  public String gender;
+  public String home_phone;
+  public String internal_integration_user;
+  public String introduction;
+  public String last_login;
+  public String last_login_time;
+  public String last_name;
+  public String ldap_server;
+  //public SnLinkValue location;
+  public String locked_out;
+  //public SnLinkValue manager;
+  public String middle_name;
+  public String mobile_phone;
+  public String name;
+  public String notification;
+  public String password_needs_reset;
+  public String phone;
+  public String photo;
+  public String preferred_language;
+  public String roles;
+  public String schedule;
+  public String source;
+  public String state;
+  public String street;
+  public String sys_class_name;
+  public String sys_created_by;
+  public String sys_created_on;
+  //public SnLinkValue sys_domain;
+  public String sys_domain_path;
+  public String sys_id;
+  public String sys_mod_count;
+  public String sys_tags;
+  public String sys_updated_by;
+  public String sys_updated_on;
+  public String time_format;
+  public String time_zone;
+  public String title;
+  public String user_name;
+  public String user_password;
+  public String vip;
+  public String web_service_access_only;
+  public String zip;
+}
