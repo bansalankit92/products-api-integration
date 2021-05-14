@@ -36,7 +36,6 @@ This repo includes varieties of major companies api products integration example
 * Twilio
 ---------
 * Twitter
-* FaceBook 
 -------
 * Grey matter 
 * Covid Hub api
