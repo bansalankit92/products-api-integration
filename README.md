@@ -21,6 +21,8 @@ This repo includes varieties of major companies api products integration example
 * Jenkins
 * Rancher
 * Teamcity
+* JFrog
+* App Dynamics
 * Sumologic
 * Sonarqube
 ---------
